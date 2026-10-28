@@ -1,0 +1,15 @@
+{
+  "name": "רשימת הבוקר שלי",
+  "short_name": "הבוקר שלי",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f6ecff",
+  "theme_color": "#f6ecff",
+  "icons": [
+    { "src": "images/icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "images/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
