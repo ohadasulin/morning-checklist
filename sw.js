@@ -1,10 +1,10 @@
 // Caches the app so it works offline once added to the iPad home screen.
-const CACHE = "morning-checklist-v3";
+const CACHE = "morning-checklist-v4";
 const FILES = [
   "./", "index.html", "manifest.json",
   "images/pajamas-off.jpg", "images/fold-pajamas.jpg", "images/wash-face.jpg",
   "images/sunscreen.jpg", "images/braid-hair.jpg", "images/breakfast.jpg",
-  "images/ready.jpg", "images/charger.jpg", "images/icon-180.png", "images/icon-512.png",
+  "images/ready.jpg", "images/charger.jpg", "images/shoes.jpg", "images/icon-180.png", "images/icon-512.png",
   "fonts/rubik-hebrew.woff2", "fonts/rubik-latin.woff2",
 ];
 
